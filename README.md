@@ -8,7 +8,7 @@ Overlay menu with cheat management, category navigation, active-cheat HUD, and p
 
 - **Console:** Nintendo Wii U  
 - **Environment:** Aroma (WUPS)  
-- **Game:** Splatoon USA (AGMP01)  
+- **Game:** Splatoon 1  
 - **Required modules:** KernelModule (memory writes), NotificationModule (recommended)
 
 ## Controls
