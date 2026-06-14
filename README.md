@@ -1,6 +1,6 @@
 # Aether
 
-**Aether** is an in-game mod menu plugin for **Splatoon (USA, AGMP01)** on **Wii U**, built for the **Aroma** environment (WUPS).
+**Aether** is an in-game mod menu plugin for **Splatoon 1** on **Wii U**, built for the **Aroma** environment (WUPS).
 
 Overlay menu with cheat management, category navigation, active-cheat HUD, and persistent save states. Designed for personal / private use.
 
